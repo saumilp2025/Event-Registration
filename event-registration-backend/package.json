@@ -1,0 +1,13 @@
+
+{
+  "name": "event-registration-backend",
+  "version": "1.0.0",
+  "description": "Backend for Event Registration System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1234.0"
+  }
+}
